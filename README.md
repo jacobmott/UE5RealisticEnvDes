@@ -27,7 +27,7 @@ Screenshots of progress
 
 
 
-=More progress, Added static meshes for cliffs/rocks and foliage for grass
+# More progress, Added static meshes for cliffs/rocks and foliage for grass
 
 ![image](https://user-images.githubusercontent.com/3318539/179942581-20ecc05a-978d-48ce-b910-a01e20db27ca.png)
 
