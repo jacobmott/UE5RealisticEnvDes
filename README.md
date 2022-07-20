@@ -58,7 +58,8 @@ Screenshots of progress
 
 
 
-![image](https://user-images.githubusercontent.com/3318539/179943700-759e2e87-edaf-46e0-aed6-8f1f83fc3d2f.png)
+![image](https://user-images.githubusercontent.com/3318539/179944330-8ef19631-8606-431c-8db7-fd74b8893ae3.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/3318539/179944106-0ba2ff41-894e-4a07-bdd6-685cdaa83b39.png)
