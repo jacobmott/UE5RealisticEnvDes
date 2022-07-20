@@ -25,3 +25,42 @@ Screenshots of progress
 
 ![image](https://user-images.githubusercontent.com/3318539/179452675-4e966cd2-0974-4d74-a7fa-a566e6832cb6.png)
 
+
+
+=More progress, Added static meshes for cliffs/rocks and foliage for grass
+
+![image](https://user-images.githubusercontent.com/3318539/179942581-20ecc05a-978d-48ce-b910-a01e20db27ca.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179942861-725c19f3-dad0-4d27-9f03-84dc782a200e.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943002-818905f9-bc12-4b0e-91fd-9c49602819ce.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943084-b460f822-94bc-42f0-a9ef-451d518f2233.png)
+
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943226-ad86c1ef-7249-4166-88d4-c2403f89e365.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943273-7e3f54ac-2298-449a-bbe7-c581d8ec555a.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943395-d5e5ef1a-a164-4fb6-959a-dab175a56ab5.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943514-94a07ccc-a082-4aae-a5df-c06cc3cb21a2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943632-c5aa904a-a932-4f51-92cb-c09a4935ffeb.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943700-759e2e87-edaf-46e0-aed6-8f1f83fc3d2f.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/179943794-62de1e8a-e2fc-43c3-8706-550de11bd386.png)
+
+
