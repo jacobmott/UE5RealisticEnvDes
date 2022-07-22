@@ -65,4 +65,17 @@ Screenshots of progress
 ![image](https://user-images.githubusercontent.com/3318539/179944106-0ba2ff41-894e-4a07-bdd6-685cdaa83b39.png)
 
 
+# More progress, Added ocean, and lighting to the scene 
+
+![image](https://user-images.githubusercontent.com/3318539/180356607-af18ba0f-f887-4561-87a4-3dba4d1405cc.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/180356657-b9a5b83d-25f4-4067-843d-9db807b20561.png)
+
+![image](https://user-images.githubusercontent.com/3318539/180356737-972b146d-124a-4425-8d48-7143844765f8.png)
+
+![image](https://user-images.githubusercontent.com/3318539/180356777-77c9edd4-e61f-4891-bf50-a9702123d615.png)
+
+![](https://github.com/jacobmott/UE5RealisticEnvDes/blob/main/Gifs/island_demo1.gif)
+
 
