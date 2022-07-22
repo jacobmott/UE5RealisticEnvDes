@@ -12,6 +12,9 @@ Video demo
 
 https://www.youtube.com/watch?v=XSpfK2ZilGc
 
+![image](https://user-images.githubusercontent.com/3318539/180394217-8f591824-ba1e-4f29-97ca-dedd00fac729.png)
+
+
 
 ![island_demo2](https://user-images.githubusercontent.com/3318539/180360949-3e27057b-a120-4170-87d5-c1c6c13fab54.gif)
 
