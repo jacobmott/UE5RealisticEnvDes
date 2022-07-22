@@ -12,6 +12,15 @@ Finished the course!
 
 ![image](https://user-images.githubusercontent.com/3318539/180367322-297a56a6-dc7b-4263-9fb8-ba8c6cd1ff14.png)
 
+![image](https://user-images.githubusercontent.com/3318539/180367361-1ab5bbc9-15ce-4558-81ed-c47baa5fa8c1.png)
+
+![image](https://user-images.githubusercontent.com/3318539/180367406-202e70c1-7cb9-4f93-8f97-42de3c77fd59.png)
+
+
+![image](https://user-images.githubusercontent.com/3318539/180367428-4c610365-4284-4590-a81e-c7f2a0f1aef4.png)
+
+![image](https://user-images.githubusercontent.com/3318539/180367493-58910962-c395-442d-9e24-25889824c251.png)
+
 
 Screenshots of progress
 
