@@ -6,7 +6,8 @@ This is blueprint only, and mostly just to create enviroments, so no code really
 
 https://www.udemy.com/course/unreal-engine-5-outdoor-level-design/
 
-Made lots of progress.. halfway through. 
+Finished the course!
+![island_demo2](https://user-images.githubusercontent.com/3318539/180360949-3e27057b-a120-4170-87d5-c1c6c13fab54.gif)
 
 Screenshots of progress
 
