@@ -76,6 +76,6 @@ Screenshots of progress
 
 ![image](https://user-images.githubusercontent.com/3318539/180356777-77c9edd4-e61f-4891-bf50-a9702123d615.png)
 
-![](https://github.com/jacobmott/UE5RealisticEnvDes/blob/main/Gifs/island_demo1.gif)
+![image](https://github.com/jacobmott/UE5RealisticEnvDes/blob/main/Gifs/island_demo1.gif)
 
 
