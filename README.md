@@ -80,3 +80,7 @@ Screenshots of progress
 ![island_demo2](https://user-images.githubusercontent.com/3318539/180360949-3e27057b-a120-4170-87d5-c1c6c13fab54.gif)
 
   
+![image](https://user-images.githubusercontent.com/3318539/180361054-f5a3d9d0-a3e8-4179-819d-b571e9335785.png)
+
+![image](https://user-images.githubusercontent.com/3318539/180361087-38b27a04-18a3-4f8d-86c9-4d4bc5dc841e.png)
+
