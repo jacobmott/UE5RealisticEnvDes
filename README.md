@@ -10,6 +10,9 @@ Finished the course!
 
 ![island_demo2](https://user-images.githubusercontent.com/3318539/180360949-3e27057b-a120-4170-87d5-c1c6c13fab54.gif)
 
+![image](https://user-images.githubusercontent.com/3318539/180367322-297a56a6-dc7b-4263-9fb8-ba8c6cd1ff14.png)
+
+
 Screenshots of progress
 
 ![image](https://user-images.githubusercontent.com/3318539/179452464-ebfde456-17a7-4a9b-82fb-6380e3d29997.png)
