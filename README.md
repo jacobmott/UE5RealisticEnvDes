@@ -76,6 +76,6 @@ Screenshots of progress
 
 ![image](https://user-images.githubusercontent.com/3318539/180356777-77c9edd4-e61f-4891-bf50-a9702123d615.png)
 
-![image](https://commons.wikimedia.org/wiki/File:Pivot_Wave.gif)
+![](https://commons.wikimedia.org/wiki/File:Pivot_Wave.gif)
 
 
