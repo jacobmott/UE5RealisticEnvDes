@@ -11,8 +11,8 @@ This is blueprint only, and mostly just to create enviroments, so no code really
 # Finished the course!
 
 Video demo
-
-https://www.youtube.com/watch?v=XSpfK2ZilGc
+[
+https://youtu.be/XSpfK2ZilGc
 
 ![image](https://user-images.githubusercontent.com/3318539/180394217-8f591824-ba1e-4f29-97ca-dedd00fac729.png)
 
