@@ -108,3 +108,29 @@ Screenshots of progress
 
 ![image](https://user-images.githubusercontent.com/3318539/180361087-38b27a04-18a3-4f8d-86c9-4d4bc5dc841e.png)
 
+
+
+
+
+## AWS S3 Screenshots And videos folders (Syncing/Pull/Push to)
+
+<details>
+The Content folder is stored in s3 bucket
+
+Pull down from bucket
+  
+```
+  aws s3 cp --recursive s3://<bucket>/UE5RealisticEnvDes/Content UE5RealisticEnvDes/Content 
+```
+
+Push to bucket
+```
+  aws s3 cp --recursive UE5RealisticEnvDes/Content s3://<bucket>/UE5RealisticEnvDes/Content
+```
+
+Or just do a sync
+```
+  aws s3 sync UE5RealisticEnvDes/Content s3://<bucket>/UE5RealisticEnvDes/Content --delete  
+
+```
+</details>
